@@ -1,6 +1,9 @@
 ### HI I'M BRIAN 👋
 
-<img src ="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" />
+<img src ="https://i.imgur.com/OAG522g.jpg" />
+### :technologist: FULL STACK DEVELOPER, AMANTE DE LA TEGNOLOGIA Y LA AERONÁUTICA :rocket: :rocket:
+
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
