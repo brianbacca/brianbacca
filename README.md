@@ -1,10 +1,15 @@
-### HI I'M BRIAN 👋
+### Welcome to my GitHub  👋👨‍💻
 
-<img src ="https://i.imgur.com/OAG522g.jpg" />
-### :technologist: FULL STACK DEVELOPER, AMANTE DE LA TEGNOLOGIA Y LA AERONÁUTICA :rocket: :rocket:
+<img src ="https://i.pinimg.com/originals/2b/d9/b3/2bd9b3f6cb8c6237d88a28ffb57654bc.gif"/>
+ 
+ 
+ :technologist: me llamo Brian Bacarezza tengo, 21 años, soy Full STack Developer, amante de la tecnología y la  aeronáutica :rocket::rocket:
+ 
+ 
+ABOUT ME:
 
 
-- 🔭 I’m currently working on ...
+- 🔭 actualmente me encontro cursando en henry 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
