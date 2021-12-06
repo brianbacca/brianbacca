@@ -18,10 +18,12 @@ ABOUT ME:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brianbacca &theme=radical)
+
 <!--
 **brianbacca/brianbacca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 -->
+![Brian' Stats](https://github-readme-stats.vercel.app/api?username=brianbacca&show_icons=true&theme=buefy)
+![Brian' Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brianbacca&hide=jupyter%20notebook&layout=compact)
