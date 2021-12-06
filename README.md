@@ -2,22 +2,14 @@
 
 <img src ="https://i.pinimg.com/originals/2b/d9/b3/2bd9b3f6cb8c6237d88a28ffb57654bc.gif"/>
  
+ ### ABOUT ME:
+ :technologist: Me llamo Brian Bacarezza tengo, 21 años, amante de la tecnología y la  aeronáutica :airplane: :airplane: y  me encuentro estudiando licenciatura en informatica.
  
- :technologist: Me llamo Brian Bacarezza tengo, 21 años, soy Full STack Developer, amante de la tecnología y la  aeronáutica :airplane: :airplane:
+Soy Full Stack Developer en constante aprendisaje :rocket: y estoy en busca de un empleo en el mundo del desarrollo web :boom: :boom:
  
- 
-ABOUT ME:
-- 🔭 actualmente me encontro cursando en henry 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 
-TECH SKILLS:
+### TECH SKILLS:
 <p>
     <a><img height="30" alt="Javascript" src="https://camo.githubusercontent.com/1f7186a9be6da41cf90bd5d97a203962e6e47b67ac401c52e87e4afe42a25235/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f362f36612f4a6176615363726970742d6c6f676f2e706e672f34383070782d4a6176615363726970742d6c6f676f2e706e67" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/480px-JavaScript-logo.png" style="max-width:100%;"></a>
     <a><img height="30" alt="HTML" src="https://camo.githubusercontent.com/0821ae25cbd292f1c724d2fbf808a78136e61c72ec42a1a961d2be9288441930/68747470733a2f2f7777772e77332e6f72672f68746d6c2f6c6f676f2f646f776e6c6f6164732f48544d4c355f4c6f676f5f3531322e706e67" data-canonical-src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png" style="max-width:100%;"></a>
@@ -33,7 +25,7 @@ TECH SKILLS:
 </p>
 
 
-CONTACT ME :
+### CONTACT ME :
 
 <a href="https://www.linkedin.com/in/brian-bacarezza/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="brianbn0@gmail.com?subject=Hola%20Jiji"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
