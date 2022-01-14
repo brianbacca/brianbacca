@@ -3,7 +3,7 @@
 <img src ="https://i.pinimg.com/originals/2b/d9/b3/2bd9b3f6cb8c6237d88a28ffb57654bc.gif"/>
  
  ### ABOUT ME:
- :technologist: Me llamo Brian Bacarezza tengo, 21 años, amante de la tecnología y la  aeronáutica :airplane: :airplane: y  me encuentro estudiando licenciatura en informatica.
+ :technologist: Me llamo Brian Bacarezza tengo, 22 años, amante de la tecnología y la  aeronáutica :airplane: :airplane: y  me encuentro estudiando licenciatura en informatica.
  
 Soy Full Stack Developer en constante aprendisaje :rocket: y estoy en busca de un empleo en el mundo del desarrollo web :boom: :boom:
  
