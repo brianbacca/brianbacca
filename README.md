@@ -27,7 +27,7 @@ Soy Full Stack Developer en constante aprendisaje :rocket: y estoy en busca de u
 ### Projects:
 
 #  SPA- DOGS:
-<img src ="https://blogger.googleusercontent.com/img/a/AVvXsEiBk_-L0xkdl3mdrYRHpZ0U2ATMVQtsNrnxNHYLQ4kZmS-2gnWoaOW4YEHRy3u_uGDOKp8yusRslnj9gsbA5Q8Ee3d9GCQIOxnDG2N-mSszdLaKs69sdIlEOWvvbu9jHO8n4XEHSvU_mfUw4ZI5a90e3dqtp-B6M8FlszjxGZUl-kkMEqCJa1uMK53r2w=w532-h193"/>
+<img src ="https://blogger.googleusercontent.com/img/a/AVvXsEiBk_-L0xkdl3mdrYRHpZ0U2ATMVQtsNrnxNHYLQ4kZmS-2gnWoaOW4YEHRy3u_uGDOKp8yusRslnj9gsbA5Q8Ee3d9GCQIOxnDG2N-mSszdLaKs69sdIlEOWvvbu9jHO8n4XEHSvU_mfUw4ZI5a90e3dqtp-B6M8FlszjxGZUl-kkMEqCJa1uMK53r2w=w532-h193" height="584"/>
 
 <img src ="https://blogger.googleusercontent.com/img/a/AVvXsEhLvRytSokJ8k2znmWxcQuhOdeNs6PDD5GuNsjocXobFjV3-6jS8o6rL-jXgNuMudhL2Im3rEbOqsaZlub_we0VQpWrBA74eJQZR5qImn-KQGBxeZJz9S4_dni-TluXNdpYPec3auNouqlXXjn_seiYdFrqnCeUSubC1Fbbk5mzQU34DyUI9n14GpcfaQ=w507-h288"/>
 
@@ -36,9 +36,27 @@ Soy Full Stack Developer en constante aprendisaje :rocket: y estoy en busca de u
 <img  src ="https://blogger.googleusercontent.com/img/a/AVvXsEhxsxUgA26Zy_JG-kkBkyzuWdmNILEYbLUXnapW6GWuhaaOh8amkOV09maAYjJZguJv1TVpUi_astWYgfvoc6BcAWWFYPInvBP-XL1uuQtenEYQdSID743bUPNhV6_rnEGrSfDPci2jZockxMkHZDMPGGanfvuYzKmEQUtQYY8oay7qLYRzVjHTdThmKA=w522-h276"/>
 
 #  DingBell:
-### At Work
+
 
 <img src ="https://lh3.googleusercontent.com/-BIeT1_ac2cE/YdWOtvt-B9I/AAAAAAAAa6c/MTNJc0j5QPYpn2xDQ8CoKfLu6OGGhERKwCNcBGAsYHQ/image.png"/>
+
+<img src ="https://lh3.googleusercontent.com/-sMK90Gr00Lw/YeG2tWssTSI/AAAAAAAAa_M/Qd8BALG8kN0p6mTTmOj-npDGBi3_Ks0OwCNcBGAsYHQ/w321-h557/image.png"/><img  src ="https://lh3.googleusercontent.com/-2j_7_eTZmec/YeG3ApcOBII/AAAAAAAAa_U/vbzwmMVJNmMB3KbFH7iQUByMRXTli0G4gCNcBGAsYHQ/w291-h581/image.png"/><img src ="https://lh3.googleusercontent.com/-BCFCyuFwnNc/YeG8wN_v4NI/AAAAAAAAbAo/5LYxLxDsTBEdHTGBRuPv2ozcGXivii5pwCNcBGAsYHQ/w320-h614/image.png"/>
+
+<img src ="https://lh3.googleusercontent.com/-DKfPHUZrhnw/YeG3eiIV9DI/AAAAAAAAa_c/s9kLGFRvoScvX6_0djPTR6KTcIwtpkL7gCNcBGAsYHQ/w292-h589/image.png"/><img src ="https://lh3.googleusercontent.com/-kPWWrcRCXZY/YeG3mSHh2TI/AAAAAAAAa_g/nO7i9ou5Mn4pwNZPHk5P_O7uyq3vo2DjQCNcBGAsYHQ/w297-h589/image.png"/><img src ="https://lh3.googleusercontent.com/-RboeccpUgck/YeG5B2_9nFI/AAAAAAAAbAU/3JX26R8o83sdGSjXw492Ei8DCK-tH8OuACNcBGAsYHQ/w248-h513/image.png"/>
+
+<img src ="https://lh3.googleusercontent.com/-u__mseSa2Yw/YeG5LPnebvI/AAAAAAAAbAc/29kIweCiVIkCLfLftuQyiq9pwuhxMAxuQCNcBGAsYHQ/w307-h613/image.png"/>
+
+<img src ="https://lh3.googleusercontent.com/-_ELo_tV51ug/YeG4TwQ_v9I/AAAAAAAAa_4/0oG4FepRkqE5iV_jcOwRdw6AB7IWuDorQCNcBGAsYHQ/w648-h301/image.png"/>
+
+<img src ="https://lh3.googleusercontent.com/-TCBGWvGjSV8/YeG37YEVXsI/AAAAAAAAa_s/OF4EKrA6LGAiOeb2zn2yP7fh20JeO9UJgCNcBGAsYHQ/w630-h291/image.png"/>
+
+<img src ="https://lh3.googleusercontent.com/-nMmCZ4LrsY4/YeG4bO8UHeI/AAAAAAAAa_8/Tg1Znt8wcTcJjTvVbN7x2jXTUHuNvQgQwCNcBGAsYHQ/w659-h297/image.png"/>
+
+<img src ="https://lh3.googleusercontent.com/-kjwd9HMIkfs/YeG4ofglVUI/AAAAAAAAbAE/0Ku8q8coYDYNd97KeXDiFOg1QvqsXFooQCNcBGAsYHQ/w655-h303/image.png"/>
+
+<img src ="https://lh3.googleusercontent.com/-h9tzwOo9jp0/YeG4yesw6JI/AAAAAAAAbAM/KGBfZ1dBLLgCeBHgx3ZBoxWduFcuBdVewCNcBGAsYHQ/w614-h277/image.png"/>
+
+
 
 
 
