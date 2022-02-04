@@ -22,6 +22,7 @@ Soy Full Stack Developer en constante aprendisaje :rocket: y estoy en busca de u
     <a><img height="30" alt="PostgreSQL" src="https://camo.githubusercontent.com/2717985f26463c118a5e93fd5ab74cbafe4dd5c9e9a9ca4bf2af249baf4d92a7/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f322f32392f506f737467726573716c5f656c657068616e742e7376672f3132303070782d506f737467726573716c5f656c657068616e742e7376672e706e67" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" style="max-width:100%;"></a>
      <a><img height="30" alt="MongoDB"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" style="max-width:100% /></a>
     <a><img height="30" alt="git" src="https://camo.githubusercontent.com/eb88d34dc21a1762c4097fb7b8a56202198c252561d7ac4fb245d8388091c3eb/68747470733a2f2f65372e706e676567672e636f6d2f706e67696d616765732f3731332f3535382f706e672d636c69706172742d636f6d70757465722d69636f6e732d70726f2d6769742d6769746875622d6c6f676f2d746578742d6c6f676f2d7468756d626e61696c2e706e67" data-canonical-src="https://e7.pngegg.com/pngimages/713/558/png-clipart-computer-icons-pro-git-github-logo-text-logo-thumbnail.png" style="max-width:100%;"></a>
+ <a><img height="30" alt="Goolang" src="https://i0.wp.com/unaaldia.hispasec.com/wp-content/uploads/2020/12/golang.png?fit=700%2C395&ssl=1" style="max-width:100%;"></a>
 </p>
 
 ### Projects:
