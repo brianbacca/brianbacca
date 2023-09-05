@@ -3,7 +3,16 @@
 <img src ="https://i.pinimg.com/originals/2b/d9/b3/2bd9b3f6cb8c6237d88a28ffb57654bc.gif"/>
  
  ### ABOUT ME:
- :technologist: Me llamo Brian Bacarezza tengo, 22 años, amante de la tecnología y la  aeronáutica :airplane: :airplane: y  me encuentro estudiando licenciatura en informatica.
+👨‍💻 Me llamo Brian Bacarezza, tengo 23 años y soy un apasionado de la tecnología y la aeronáutica ✈️✈️. Actualmente, me encuentro estudiando licenciatura en informática.
+
+💼 Mi experiencia central gira en torno a la configuración del Fiori Launchpad y la optimización de los servicios FIORI-GATEWAY para proporcionar a los usuarios una experiencia de búsqueda de empleo fluida. Además, cuento con un sólido conocimiento en el consumo de servicios OData2 y OData4.
+
+🛠️ Utilizo herramientas como SAP Business Application Studio y SAP Build Work Zone para crear portales atractivos y configurar roles, grupos y catálogos que facilitan la búsqueda y aplicación de empleos a través del Fiori Launchpad. Mi experiencia en SAP Web IDE también me permite personalizar aún más estas plataformas.
+
+🏢 A lo largo de mi carrera, he tenido el privilegio de trabajar con empresas líderes como COFCO y COTEMAR, donde he resuelto desafíos y desarrollado nuevas funciones para mejorar la búsqueda de empleo y la gestión de candidatos.
+
+🚀 Actualmente, me encuentro en un proyecto para AssistCard, un proyecto que abarca diversas áreas funcionales, desde la creación de requerimientos hasta la gestión de licitaciones, órdenes de compra y facturas, todo ello supervisado a través de una aplicación dedicada.
+
  
 
 
@@ -21,7 +30,6 @@
      <a><img height="30" alt="MongoDB"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" style="max-width:100% /></a>
     <a><img height="30" alt="git" src="https://camo.githubusercontent.com/eb88d34dc21a1762c4097fb7b8a56202198c252561d7ac4fb245d8388091c3eb/68747470733a2f2f65372e706e676567672e636f6d2f706e67696d616765732f3731332f3535382f706e672d636c69706172742d636f6d70757465722d69636f6e732d70726f2d6769742d6769746875622d6c6f676f2d746578742d6c6f676f2d7468756d626e61696c2e706e67" data-canonical-src="https://e7.pngegg.com/pngimages/713/558/png-clipart-computer-icons-pro-git-github-logo-text-logo-thumbnail.png" style="max-width:100%;"></a>
 <!--  <a><img height="30" alt="Goolang" src="https://i0.wp.com/unaaldia.hispasec.com/wp-content/uploads/2020/12/golang.png?fit=700%2C395&ssl=1" style="max-width:100%;"></a> -->
- <a><img height="30" alt="Goolang" src="https://manticore-labs.com/wp-content/uploads/2019/02/nest.png" style="max-width:100%;"></a>
 </p>
 
 ### Projects:
