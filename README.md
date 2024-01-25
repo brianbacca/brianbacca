@@ -9,9 +9,8 @@
 
 🛠️ Utilizo herramientas como SAP Business Application Studio y SAP Build Work Zone para crear portales atractivos y configurar roles, grupos y catálogos que facilitan la búsqueda y aplicación de empleos a través del Fiori Launchpad. Mi experiencia en SAP Web IDE también me permite personalizar aún más estas plataformas.
 
-🏢 A lo largo de mi carrera, he tenido el privilegio de trabajar con empresas líderes como COFCO y COTEMAR, donde he resuelto desafíos y desarrollado nuevas funciones para mejorar la búsqueda de empleo y la gestión de candidatos.
 
-🚀 Actualmente, me encuentro en un proyecto para AssistCard, un proyecto que abarca diversas áreas funcionales, desde la creación de requerimientos hasta la gestión de licitaciones, órdenes de compra y facturas, todo ello supervisado a través de una aplicación dedicada.
+
 
  
 
